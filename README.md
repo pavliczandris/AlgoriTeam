@@ -13,10 +13,10 @@ Branchek:
 
 
 
-
+ajánlott eszközök
 
 /*
-  új mappa létrehozása:
+  új mappa létrehozása(ha ezt a webes felületen akarjátok megoldani):
     create new file button;
     textboxban, ahol a kurzor van: "[mappa]/[fajlnev]"
     //nekem egy ideiglenes asd nevű szöveges fájlom van benne, mert fájl nélkül nem marad meg a mappa
